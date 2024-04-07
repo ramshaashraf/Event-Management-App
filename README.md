@@ -12,8 +12,9 @@ Future Scope: Payment Gateway + Ticketing Service + Email Services
 2. **Database**:
    - MySQL
 
-3. **Frontend**:
+3. **Frontend / Mobile Development Framework:**:
    - Angular or React
+   - Android SDK
 
 4. **Authentication and Authorization**:
    - Spring Security
