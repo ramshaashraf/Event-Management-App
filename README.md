@@ -1,6 +1,10 @@
 # EventManagementApp
 
-Tech Stack:
+Spring Boot application for managing events such as conferences, workshops, or meetups. Users can register for events, organizers can create and manage events, and attendees can view event details, schedule, and speakers. Use Spring Security for authentication and authorization, and integrate with a database to store event and user information.
+
+Add features like: Payment Gateway + Ticketing Service + Email Services
+
+**Tech Stack:**
 
 1. **Backend Framework**: 
    - Spring Boot: Spring Boot provides a robust framework for building Java-based applications with ease, offering features like auto-configuration, dependency injection, and embedded servers.
