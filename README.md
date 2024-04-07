@@ -35,5 +35,3 @@ Add features like: Payment Gateway + Ticketing Service + Email Services
 
 10. **Monitoring and Logging**:
     - Spring Boot Actuator: Monitor and manage your application using Spring Boot Actuator, which provides endpoints for gathering metrics, health checks, and other operational insights. Integrate with logging frameworks like Log4j or SLF4J for capturing and analyzing application logs.
-
-By leveraging these technologies, you can build a robust and scalable Event Management System that meets the needs of both organizers and attendees.
