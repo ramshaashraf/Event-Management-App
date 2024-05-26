@@ -1,4 +1,4 @@
-# EventManagementApp
+# Event Management App
 
 Spring Boot application for managing events such as conferences, workshops, or meetups. Users can register for events, organizers can create and manage events, and attendees can view event details, schedule, and speakers. Use Spring Security for authentication and authorization, and integrate with a database to store event and user information.
 
